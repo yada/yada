@@ -1,4 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=yada&color=brightgreen&style=for-the-badge) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacinekheddache/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/yadayac.bsky.social)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://hachyderm.io/@YadaYac)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadaYac)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://microcks.io/discord-invite)
 
 ## Who Am I 👇
 Open source lover with 20+ years in tech, 7 in ISPs, 14 as a startup founder, and 6 at Red Hat. 
