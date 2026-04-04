@@ -8,15 +8,15 @@
 ## Who Am I 👇
 Open source lover with 20+ years in tech, 7 in ISPs, 14 as a startup founder, and 6 at Red Hat. 
 
-Now fully focused on [Microcks](https://microcks.io/), a [CNCF](https://www.cncf.io/) project for API mocking and testing:<BR>
+Now fully focused on [**Microcks**](https://microcks.io/), a [CNCF](https://www.cncf.io/) project for API mocking and testing & [reShapr](https://reshapr.io/):<BR>
 
 [![DevStats Card](https://devstats.me/?username=yada)](https://github.com/tico88612/devstats-card)
 
 > [!NOTE]
-> Passionate about open organizations, intrapreneurship, digital transformation, and disruptive innovation. Proud to be part of Postman, [supporting the Microcks community](https://microcks.io/blog/microcks-partners-with-postman/). Mountain lover, craft beer fan, always up for a good climb or a great IPA 🍻
+> Passionate about open organizations, intrapreneurship, digital transformation, and disruptive innovation. Proud to be part of [Postman](https://www.postman.com/), supporting both the [Microcks community](https://microcks.io/blog/microcks-partners-with-postman/) & [reShapr community](https://www.linkedin.com/feed/update/urn:li:activity:7445005249100029952). Mountain lover, craft beer fan, always up for a good climb or a great IPA 🍻
 
 > [!IMPORTANT]
-> 📢 https://github.com/microcks/microcks 👉 give it a ⭐ and share it with friends!
+> 📢 https://github.com/microcks/microcks & https://github.com/reshaprio/reshapr 👉 give us a ⭐ and share it with friends!
 
 <!--
 **yada/yada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
