@@ -8,7 +8,7 @@
 ## Who Am I 👇
 Open source lover with 20+ years in tech, 7 in ISPs, 14 as a startup founder, and 6 at Red Hat. 
 
-Now fully focused on [**Microcks**](https://microcks.io/), a [CNCF](https://www.cncf.io/) project for API mocking and testing & [reShapr](https://reshapr.io/):<BR>
+Now fully focused on [**Microcks**](https://microcks.io/), a [CNCF](https://www.cncf.io/) project for API mocking and testing & [**reShapr**](https://reshapr.io/):<BR>
 
 [![DevStats Card](https://devstats.me/?username=yada)](https://github.com/tico88612/devstats-card)
 
