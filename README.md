@@ -3,7 +3,8 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/kheddache.me)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadaYac)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://microcks.io/discord-invite)
-![Yacine's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yada&show_icons=true&theme=light)
+
+![Yacine's Stats](https://github-stats-extended.vercel.app/api?username=yada&show_icons=true&theme=light)
 
 [![DevStats Card](https://devstats.me/?username=yada)](https://github.com/tico88612/devstats-card)
 
