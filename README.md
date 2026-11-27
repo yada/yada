@@ -1,39 +1,56 @@
-![](https://komarev.com/ghpvc/?username=yada&color=brightgreen&style=for-the-badge) 
+<a href="https://kheddache.me">
+  <img src="assets/banner.jpg" alt="La Meije in winter with the reShapr logo (MCP Runtime, Turn your APIs AI-Native), the Microcks logo (API Mocking & Testing, CNCF Incubating) and the CNCF Ambassador badge" width="100%">
+</a>
+
+[![Website](https://img.shields.io/badge/kheddache.me-121417?style=for-the-badge&logo=googlechrome&logoColor=F5A524)](https://kheddache.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacinekheddache/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/kheddache.me)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadaYac)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://hachyderm.io/@YadaYac)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://microcks.io/discord-invite)
+
+## 👋 Hi, I'm Yacine
+
+I co-founded **[reShapr](https://reshapr.io/)**, the open source MCP runtime that turns your existing APIs into governed MCP tools, and **[Microcks](https://microcks.io/)**, a CNCF Incubating project for API mocking and contract testing, where I'm a core maintainer. I'm also a **CNCF Ambassador**.
+
+Before that: nearly three decades in open source, from early ISP infrastructure and 14 years as an entrepreneur to 6 years at Red Hat. I care about open organization models and helping companies adopt open source and cloud native in practice.
+
+## 🛠️ What I'm building
+
+### 🚀 [reShapr](https://github.com/reshaprio/reshapr)
+**Turn your APIs AI-Native, without rebuilding them.**
+
+reShapr is an open source MCP runtime. It turns REST, GraphQL and gRPC APIs into MCP tools with API-key auth, audit, operation filters and trimmed responses, so AI agents get slim, governed tools instead of raw payloads.
+
+[![reShapr Stars](https://img.shields.io/github/stars/reshaprio/reshapr?style=for-the-badge&logo=github&color=ffad05)](https://github.com/reshaprio/reshapr)
+
+### 🧪 [Microcks](https://github.com/microcks/microcks)
+**Open source API mocking and testing, CNCF Incubating.**
+
+Microcks is a CNCF Incubating project for API mocking and contract testing. It turns OpenAPI, AsyncAPI, gRPC and GraphQL contracts into live mocks and conformance tests, from a laptop to Kubernetes.
+
+[![Microcks Stars](https://img.shields.io/github/stars/microcks/microcks?style=for-the-badge&logo=github&color=ffad05)](https://github.com/microcks/microcks)
+
+## 🏅 Credentials
+
+<a href="https://certdirectory.io/profile/yacine-kheddache?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/yacine-kheddache.svg?style=card&theme=dark">
+    <img alt="Yacine Kheddache on CertDirectory" src="https://certdirectory.io/badge/yacine-kheddache.svg?style=card">
+  </picture>
+</a>
+
+## 📊 Activity
 
 ![Yacine's Stats](https://github-stats-extended.vercel.app/api?username=yada&show_icons=true&theme=light)
 
 [![DevStats Card](https://devstats.me/?username=yada)](https://github.com/tico88612/devstats-card)
 
-## Who Am I 👇
-Open source lover with 20+ years in tech, 7 in ISPs, 14 as a startup founder, and 6 at Red Hat.
-
-Working at the intersection of API Governance [**Microcks**](https://microcks.io/), a [CNCF](https://www.cncf.io/) project for API mocking + testing, ***and*** AI Integration [**reShapr**](https://reshapr.io/).
-
-## 🛠️ What I'm building right now
-
-I am dedicated to making APIs more accessible, testable, and AI-native.
-
-### 🧪 [Microcks](https://github.com/microcks/microcks)
-**The Cloud Native Computing Foundation (CNCF) project for API Mocking and Testing.**
-Microcks helps teams speed up delivery by providing consistent mocks and automated tests for REST, GraphQL, gRPC, and AsyncAPIs.
-> [![Microcks Stars](https://img.shields.io/github/stars/microcks/microcks?style=for-the-badge&logo=github&color=ffad05)](https://github.com/microcks/microcks)
-
-### 🚀 [reShapr](https://github.com/reshaprio/reshapr)
-**The Open Source, No-Code MCP Server for AI-Native API Access.**
-reShapr bridges the gap between traditional services and LLMs. It solves the "Context Overload" problem by reshaping complex API payloads into slim, understandable tools for AI agents.
-> [![reShapr Stars](https://img.shields.io/github/stars/reshaprio/reshapr?style=for-the-badge&logo=github&color=ffad05)](https://github.com/reshaprio/reshapr)
-
-> [!NOTE]
-> Passionate about open organizations, intrapreneurship, digital transformation, and disruptive innovation. Proud to be part of [Postman](https://www.postman.com/), supporting both the [Microcks community](https://microcks.io/blog/microcks-partners-with-postman/) & [reShapr community](https://www.linkedin.com/feed/update/urn:li:activity:7445005249100029952). Mountain lover, craft beer fan, always up for a good climb or a great IPA 🍻
-
-## 🚀 Support my work
+## ⭐ Support my work
 
 > [!IMPORTANT]
-> 📢 https://github.com/microcks/microcks & https://github.com/reshaprio/reshapr 👉 give us a ⭐ and share it with friends!
+> Give [reShapr](https://github.com/reshaprio/reshapr) and [Microcks](https://github.com/microcks/microcks) a ⭐ and share them with friends. Using one of them? Add your organization to their ADOPTERS list.
 
-[![Microcks Stars](https://img.shields.io/github/stars/microcks/microcks?style=for-the-badge&logo=github&color=ffad05)](https://github.com/microcks/microcks)
-[![reShapr Stars](https://img.shields.io/github/stars/reshaprio/reshapr?style=for-the-badge&logo=github&color=ffad05)](https://github.com/reshaprio/reshapr)
+Mountain lover and craft beer fan, always up for a good climb or a great IPA 🍻
+
+![](https://komarev.com/ghpvc/?username=yada&color=brightgreen&style=flat-square)
